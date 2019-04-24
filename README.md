@@ -114,12 +114,14 @@ Run toolbox stress tests
 ```sh
 $> make stress
 ```
-
+##############################
 Please help keep the project!
 Make a donation
 
-Here is the wallet code
+DONATE
+Every satoshi of your kind donation goes into the rerunning peatio again and making it active and adding support for new features and new currencies.
 
-Here the address
+Bitcoin address 38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E
 
-Multiple coins can be used for donation?
+Ethereum address 38jUu1ksNs9d9aFCK8wMPrZtkqDzJjFe5E
+
